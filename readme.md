@@ -1,0 +1,5 @@
+- Run data_server/app.py
+- Go to localhost: 127.0.0.1:5000
+- Login: admin/password
+- Run face_recognition.py
+- Modify id in line 122 to use webcam.
